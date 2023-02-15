@@ -1,4 +1,4 @@
-package com.fwy.utils;
+package com.fwy.quzuche.utils;
 
 public class SumUtils {
 

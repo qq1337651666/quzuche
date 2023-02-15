@@ -1,6 +1,6 @@
 package com.fwy.quzuche;
 
-import com.fwy.utils.SumUtils;
+import com.fwy.quzuche.utils.SumUtils;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
